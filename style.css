@@ -1,0 +1,96 @@
+body{
+    background-color: rgba(140, 159, 223, 0.267);
+} 
+#caixa{
+    width: 300px;
+    height: 150px;
+    background-color: rgba(0, 255, 255, 0.527);
+    margin: 140px;
+    position: absolute;
+    top: 10px;
+    left: 80px;
+    border-radius: 20px;
+    
+}
+
+#fundo{
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    position: absolute;
+    top: 260px;
+    left: 220px;
+    border-radius: 2px 2px 20px 20px;
+    
+}
+
+img{
+    top: 200px;
+    left: 310px;
+    width: 110px;
+    border-radius: 60px;
+    position: absolute;
+    border: 4px solid white;
+
+}
+
+p{
+    position: absolute;
+    top: 315px;
+    left: 318px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#linha{
+    width: 300px;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.288);
+    position: absolute;
+    top: 410px;
+    left: 220px;
+}
+
+.brasil{
+    position: absolute;
+    top: 340px;
+    left: 350px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.caixa1{
+    position: absolute;
+    top: 420px;
+    left: 250px;
+}
+
+.caixa2{
+    position: absolute;
+    top: 450px;
+    left: 240px;
+}
+
+.caixa3{
+    position: absolute;
+    top: 420px;
+    left: 360px;
+}
+
+.caixa4{
+    position: absolute;
+    top: 450px;
+    left: 360px;
+
+}
+
+.caixa5{
+    position: absolute;
+    top: 420px;
+    left: 445px;
+}
+.caixa6{
+    position: absolute;
+    top: 450px;
+    left: 447px;
+}
